@@ -6,12 +6,12 @@ An implementation of global illumination using deferred application of irradianc
 Documentation
 -------------
 
-Blog entry outlining the basic principle: http://codeflow.org/entries/2012/aug/25/webgl-deferred-irradiance-volumes/
+Blog entry outlining the basic principle: https://web.archive.org/web/20121105194823/http://codeflow.org/entries/2012/aug/25/webgl-deferred-irradiance-volumes/
 
 Demo
 ----
 
-Live Demo at: http://codeflow.org/webgl/deferred-irradiance-volumes/www/
+Live Demo at: :(
 
 License
 -------
